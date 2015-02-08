@@ -1,0 +1,46 @@
+body {
+  background-image: url("http://i1066.photobucket.com/albums/u416/tiffany_m_chang/1902835_10152098980528682_921892055_n_zps4wsxht3k.jpg");
+  color: white;
+}
+
+#title{
+  font-family: 'Slabo 27px', serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+/*#square1{
+  background:blue;
+}
+
+
+#square2{
+  background-color: #ccf5f5;
+}*/
+
+#dayofweek{
+  font-family: 'Slabo 27px', serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.ratty{
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+#wrapper{
+  margin: auto;
+  width: 200px;
+}
+
+.square{
+  width: 100px;
+  height:100px;
+  float:left;
+}
+
+.square:hover{
+  cursor: pointer;
+
+}
